@@ -1,0 +1,37 @@
+.artykul_link a {
+    color:rgb(232, 120, 16);
+}
+.produkty_link a {
+    color:rgb(23, 16, 232);
+}
+.kwadraty_link a {
+    color:rgb(5, 226, 82);
+}
+.autor {
+    color:rgb(232, 16, 16);
+}
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+.color1 { background-color: #5c0e06; }
+.color2 { background-color: #7ec3f1; }
+.color3 { background-color: #cc2e8f; }
+.color4 { background-color: #c7b676; }
